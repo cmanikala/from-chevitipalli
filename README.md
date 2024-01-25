@@ -7,6 +7,10 @@ It always serves the best and tasty food.It has vide variety of foods. People of
 ---
 
 ### Favorite Dishes and places to visit
+<<<<<<< HEAD
+=======
+
+>>>>>>> c93822172e6082f9a923cd889edf1e0889f2f611
 1. Mutton Curry
 2. Parota
 3. Chicken Biriyani
@@ -14,5 +18,8 @@ It always serves the best and tasty food.It has vide variety of foods. People of
 - City forest
 - Shilparamam
 - Children park
+<<<<<<< HEAD
 
 You can find the MyMedia file here [My media](MyMedia.md)
+=======
+>>>>>>> c93822172e6082f9a923cd889edf1e0889f2f611
