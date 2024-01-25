@@ -16,3 +16,11 @@ The below table gives the information about the songs i like and the reason i li
 |Mast Magan|Feel good song|Amitabh|
 |Guli Mata|Beautiful Voice|Lamja Rred|
 |Something something|Emotional song|Sriram|
+
+---
+
+### Favorite Quotes
+
+> Get it down. Take chances. It may be bad, but it's the only way you can do anything really good.– *William Faulkner*
+>
+> To produce a mighty book, you must choose a mighty theme.' – *Herman Melville*
